@@ -1,0 +1,65 @@
+.raju{
+    background-image: url(../assets/hills.png);
+    width: 700px;
+    height: 618px;
+    background-size:cover;
+    background-position: -150px ;
+    /* background-position-y:top; */
+}
+.login1{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.login2{
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+}
+.login3{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 35px;
+ 
+}
+.mani51{
+    margin-left: 40px;
+    margin-right: 40px;
+
+ 
+}
+.hello1{
+    height: 50px;
+   
+}
+.mani52{
+ 
+    height: 10px;
+}
+.filina1{
+
+    width: 320px;
+    height: 30px; 
+   
+    height: 45px;
+    border-radius: 30px;
+    font-size: 20px; 
+    margin-bottom: 20px;
+    
+    background-color: rgb(153, 0, 255);
+    color: white;
+    outline: 0;
+    border:rgb(153, 0, 255);
+    margin-top: 10px;
+}
+.selva121{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}

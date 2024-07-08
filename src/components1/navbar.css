@@ -1,0 +1,51 @@
+/* 
+.nav1{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    position: sticky;
+    top: 0px;
+    justify-content: space-between;
+    list-style-type: none;
+    color: wheat;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.aa{
+    opacity: 0;
+}
+.a{
+
+    position: relative;
+    bottom: 20px;
+   
+
+}
+*{
+    margin: 0;
+}
+.nav2{
+    font-size: 30px;
+    text-decoration: none;
+}
+.li1{
+    font-weight: 00;
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+}
+.li1:hover {
+    color: rgb(255, 255, 255);
+}
+.lii{
+    display: none;
+    
+}
+.desh{
+    display: none;
+}
+*{
+    margin: 0;
+}.re{
+    position: sticky;
+    top: 0px;
+} */

@@ -1,0 +1,37 @@
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  
+
+
+}
+*{
+    margin: 0;
+}
+
+.navbar3{
+    text-decoration: none;
+    font-size: 23px;
+    color: red;
+}
+:hover.navbar3{
+    color: blueviolet;
+}
+.navbar4{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+.kill{
+
+  
+    color: white;
+}
